@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		791C23C51DED589F008A3E62 /* JSONParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791C23C41DED589F008A3E62 /* JSONParser.swift */; };
+		791C23C71DED60C8008A3E62 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791C23C61DED60C8008A3E62 /* DetailViewController.swift */; };
 		792CF9FC1DED4EBA00139B9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792CF9FB1DED4EBA00139B9D /* AppDelegate.swift */; };
 		792CF9FE1DED4EBA00139B9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792CF9FD1DED4EBA00139B9D /* ViewController.swift */; };
 		792CFA011DED4EBA00139B9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 792CF9FF1DED4EBA00139B9D /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		791C23C41DED589F008A3E62 /* JSONParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONParser.swift; sourceTree = "<group>"; };
+		791C23C61DED60C8008A3E62 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		792CF9F81DED4EBA00139B9D /* Petitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Petitions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		792CF9FB1DED4EBA00139B9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		792CF9FD1DED4EBA00139B9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				792CF9FB1DED4EBA00139B9D /* AppDelegate.swift */,
 				792CF9FD1DED4EBA00139B9D /* ViewController.swift */,
+				791C23C61DED60C8008A3E62 /* DetailViewController.swift */,
 				791C23C41DED589F008A3E62 /* JSONParser.swift */,
 				792CF9FF1DED4EBA00139B9D /* Main.storyboard */,
 				792CFA021DED4EBA00139B9D /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 				792CF9FE1DED4EBA00139B9D /* ViewController.swift in Sources */,
 				792CF9FC1DED4EBA00139B9D /* AppDelegate.swift in Sources */,
 				791C23C51DED589F008A3E62 /* JSONParser.swift in Sources */,
+				791C23C71DED60C8008A3E62 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
